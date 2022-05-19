@@ -10,8 +10,6 @@ import {
   Event,
   School,
 } from "@mui/icons-material";
-// import { Users } from "../../dummyData";
-// import CloseFriend from "../closeFriend/CloseFriend";
 
 export default function Leftbar() {
   return (
