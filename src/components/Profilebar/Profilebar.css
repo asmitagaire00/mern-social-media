@@ -1,5 +1,8 @@
 .profilebar-wrapper{
-    padding: var(--padding-s);
+    padding-top: var(--padding-s);
+    padding-bottom: 0;
+    padding-left: 0; -webkit-box-shadow: -3px 6px 9px 0px #A5A5A5; 
+    box-shadow: -3px 6px 9px 0px #A5A5A5;
 }
 
 .profilebar-username-wrapper{
@@ -62,6 +65,7 @@
 
 .profilebar-profile-details-wrapper{
     padding-left: var(--padding-xl);
+    background-color: white;
 }
 
 .profilebar-username-details{
